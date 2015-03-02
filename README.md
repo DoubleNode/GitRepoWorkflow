@@ -10,4 +10,6 @@
 
 ### When working an issue:
 - Create feature branch (ie: feature-dme-xcode-static-library#557)
-- Publish feature branch immediately (moves tagged issue to "In Progress"
+- Publish feature branch immediately (moves tagged issue to "In Progress")
+- Do work, commit, push, rinse and repeat...
+- 
